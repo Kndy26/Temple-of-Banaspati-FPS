@@ -2,7 +2,7 @@
 
 **Banaspati Curse** adalah game *First-Person Shooter* (FPS) bernuansa misteri fantasi lokal. Pemain harus menavigasi labirin gelap, mengumpulkan relik mistis, dan bertahan hidup dari serangan Banaspati. Game ini mengharuskan pemain menggunakan kecerdasan untuk membalikkan serangan bos demi menghancurkan segel pelindungnya.
 
-> **Catatan Akademik:** Repositori ini berisi *build* untuk **Proyek Ujian Tengah Semester (UTS)** mata kuliah **Pemrograman Game** di **Universitas Bunda Mulia**.
+> **Catatan Akademik:** Repositori ini hanya berisi *build* dikarenakan ukuran file project yang cukup besar. Project ini dibuat sebagai **Proyek Ujian Tengah Semester (UTS)** mata kuliah **Pemrograman Game** di **Universitas Bunda Mulia**.
 
 ---
 
