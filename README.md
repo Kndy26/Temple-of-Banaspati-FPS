@@ -56,9 +56,11 @@ Proyek ini dikembangkan menggunakan **Unity Engine (Versi 2022.3.62f1)** dan san
   * *Free Skull Asset* by Gece Studio
   * Terrain Textures from *PolyHaven.com*
 * **SkyBox:** *AllSky Free - 10 Sky / Skybox Set* by rpgwhitelock
-* **Visual Effects (VFX):** * *Cinematic Explosions FREE* by Mirza Beig
+* **Visual Effects (VFX):**
+  * *Cinematic Explosions FREE* by Mirza Beig
   * *Fx Pack - Fire Effects* by PolyOne Studio
-* **Audio & Music:** * All SFX from *Pixabay*
+* **Audio & Music:**
+  * All SFX from *Pixabay*
   * Final Boss Music: *Bomb* by Kensuke Ushio
 
 ---
